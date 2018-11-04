@@ -8,3 +8,5 @@ V analizi bom poskušal najti povezave med številom doseženih točk in igralno
 
 
 V datoteki "zajemalnik" je program ki iz interneta pobere 7 posameznih strani in jih shrani kot "stran_i". V datoteki "zdruzevanje" je program ki kodo vseh 7 strani zdruzi v eno datoteko z imenom "zdruzeno".
+
+V datoteki "naredi_csv" je program ki naredi csv datoteko z imenom "podatki".
