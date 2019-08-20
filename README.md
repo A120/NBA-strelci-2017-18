@@ -11,3 +11,7 @@ Hipoteze so, da imajo igralci iz zunanjih pozicij (G, PG, SG) boljši odstotek m
 V datoteki "zajemalnik" je program ki iz interneta pobere 7 posameznih strani in jih shrani kot "stran_i". V datoteki "zdruzevanje" je program ki kodo vseh 7 strani zdruzi v eno datoteko z imenom "zdruzeno".
 
 V datoteki "naredi_csv" je program ki naredi csv datoteko z imenom "podatki".
+
+V datoteki "naredi_pravi_csv" je enak program kot "naredi_csv" le da v imena stolpcev ne doda znaka % ki povrzroča probleme pri analizi podatkov. 
+
+V datoteki "podatki_pravi" so enaki podatki kot v datoteki "podatki" le da  imenih stolpcev ni znaka %.
